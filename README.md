@@ -1,1 +1,3 @@
 THIS IS A AI TEXT TO IMAGE GENERATOR APPLICATION BASED ON MERN STACK
+
+frontEnd URL = https://dall-e-clonee.netlify.app
